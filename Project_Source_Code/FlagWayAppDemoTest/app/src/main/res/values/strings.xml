@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlagWayAppDemoTest</string>
+    <string name="rule_hint">Enter your rule here</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="single_rule_input_title">Rule Input</string>
+
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+
+    <string name="Range1">Range 1</string>
+    <string name="Range2">Range 2</string>
+    <string name="Range3">Range 3</string>
+    <string name="Range4">Range 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
